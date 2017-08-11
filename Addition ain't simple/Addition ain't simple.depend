@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502488534 source:c:\not c\work\code_blocks_projects\addition ain't simple\main.c
+	<stdio.h>
+	<string.h>
+
